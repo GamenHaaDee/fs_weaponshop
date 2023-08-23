@@ -81,6 +81,24 @@ Locales = {
         ['stockfull'] = 'The stock is ~g~full',
         ['not_weapon'] = "You don't have the ~r~arma~s~ on you",
         ['stock_title'] = 'Stock'
+    },
+    ['nl'] = {
+        ['open_menu'] = 'Druk op ~r~E~s~ om het menu te openen',
+        ['weaponshop_title'] = 'Wapenwinkel',
+        ['weaponshop_payin'] = 'Betaal methode',
+        ['pay_money'] = 'Betalen met geld',
+        ['pay_bank'] = 'Betalen met pin',
+        ['not_money'] = 'Je hebt niet ~r~genoeg geld',
+        ['purchase_success'] = 'Je hebt het wapen ~g~gekocht~s~',
+        ['weapon_full'] = 'Je hebt dit wapen al',
+        ['wait_stock'] = "Kijken wat er nog op voorraad is..",
+        ['stock_fully'] = 'Voorraad: ', -- [stock]
+        ['not_stock'] = 'Dit wapen is ~r~uitverkocht',
+        ['menu_not_stock'] = 'Niet op voorraad',
+        ['not_license'] = 'Je hebt geen ~r~vuurwapen licentie',
+        ['stockfull'] = 'De voorraad is volledig ~g~gevuld',
+        ['not_weapon'] = "Je hebt geen ~r~wapen~s~ bij je",
+        ['stock_title'] = 'Beschikbaarheid'
     }
 }
 
